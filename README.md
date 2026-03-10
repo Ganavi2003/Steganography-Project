@@ -1,4 +1,4 @@
-# Steganography-C-Project
+# Steganography-Project
 BMP image steganography encoder/decoder implemented in C.
 
 # Steganography Encoder/Decoder in C
